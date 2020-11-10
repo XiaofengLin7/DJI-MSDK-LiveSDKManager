@@ -7,7 +7,7 @@ It was based on DJI Mobile SDK LiveStreamManager and another [project](https://g
 
 Final result was like:
 
-<img src="D:/groundstation/地面站搭建/408957f29120f666c41a59f51499b14.jpg" alt="408957f29120f666c41a59f51499b14" style="zoom: 150%;" />
+![image-20201110162114910](image/image-20201110162114910.png)
 
 ## Requirements
 
